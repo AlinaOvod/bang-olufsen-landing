@@ -1,0 +1,34 @@
+.categories {
+  &__wrapper {
+    display: grid;
+    row-gap: 40px;
+
+    @include on-tablet {
+      row-gap: 56px;
+    }
+  }
+
+  &__button {
+    @include page-grid;
+  }
+
+  &__link {
+    display: block;
+    text-align: center;
+    padding: 14.5px 48px;
+    color: $button-text-color;
+    background-color: $button-main-color;
+    font-weight: 700;
+    line-height: 27px;
+    text-decoration: none;
+    border-radius: 8px;
+    cursor: pointer;
+    grid-column: 1 / -1;
+
+    @include button-style;
+    
+    @include on-desktop {
+      grid-column: span 4;
+    }
+  }
+}
