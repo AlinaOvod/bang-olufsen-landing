@@ -1,10 +1,10 @@
 1. Brief Description of the Project.
 This project is a website for Band&Olufsen, featuring a modern, responsive design to showcase various audio-visual products such as speakers, headphones, televisions, and soundbars. The website includes several sections:
 
-Header: Includes the company's logo, a phone icon, and a menu icon.
-Menu: A sidebar navigation menu that appears when the menu icon is clicked, providing links to different product categories.
-Main Content: Features sections like "Recommended Products," "Categories," "About Us," and "Contact Us," each with detailed product descriptions and images.
-Contact Us: A form for users to send messages and contact information for phone, email, and physical address.
+- Header: Includes the company's logo, a phone icon, and a menu icon.
+- Menu: A sidebar navigation menu that appears when the menu icon is clicked, providing links to different product categories.
+- Main Content: Features sections like "Recommended Products," "Categories," "About Us," and "Contact Us," each with detailed product descriptions and images.
+- Contact Us: A form for users to send messages and contact information for phone, email, and physical address.
 
 2. Technologies Used.
 
