@@ -22,3 +22,4 @@ The project leverages these technologies to create a visually appealing and user
 
 3. Demo link: https://alinaovod.github.io/bang-olufsen-landing/
 4. Project layout: https://github.com/alinaOvod/bang-olufsen-landing
+5. Mockup: https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212&t=UcqwrVXkeKYyQ4qy-1
