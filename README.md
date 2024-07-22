@@ -1,3 +1,5 @@
+# Band&Olufsen website
+
 1. Brief Description of the Project.
 This project is a website for Band&Olufsen, featuring a modern, responsive design to showcase various audio-visual products such as speakers, headphones, televisions, and soundbars. The website includes several sections:
 
